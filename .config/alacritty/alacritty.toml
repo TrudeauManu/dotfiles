@@ -1,0 +1,9 @@
+[font]
+normal = { family = "FiraCode Nerd Font", style = "regular" }
+bold = { family = "FiraCode Nerd Font Bold", style = "regular" }
+italic = { family = "FiraCode Nerd Font Italic", style = "regular" }
+bold_italic = { family = "FiraCode Nerd Font Bold Italic", style = "regular" }
+size = 14
+
+[window]
+padding = { x = 3, y = 2 }
