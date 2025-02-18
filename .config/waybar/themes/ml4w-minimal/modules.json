@@ -332,8 +332,8 @@
     "pulseaudio": {
         // "scroll-step": 1, // %, can be a float
         "format": "{icon} {volume}%",
-        "format-bluetooth": "{volume}%  {icon} {format_source}",
-        "format-bluetooth-muted": "  {icon} {format_source}",
+        "format-bluetooth": "{volume}% {icon} {format_source}",
+        "format-bluetooth-muted": "  {icon} {format_source}",
         "format-muted": "  {format_source}",
         "format-source": "{volume}% ",
         "format-source-muted": "",
@@ -355,7 +355,8 @@
         "format-off": "",
         "interval": 30,
         "on-click": "blueman-manager",
-        "format-no-controller": ""
+        "format-no-controller": "",
+        "format-connected": ""
     },
 
     // Other
