@@ -51,6 +51,7 @@
 	"network",
 	"hyprland/language",
         "group/hardware",
+	"custom/dunst",
         "custom/cliphist",
 	"tray",
         "custom/exit"

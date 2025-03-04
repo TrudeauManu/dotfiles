@@ -210,7 +210,7 @@ window#waybar.empty #window {
 }
 
 #custom-waybarthemes,#custom-system {
-     margin-right:15px;
+     margin-right:10px;
 }
 
 #custom-ml4w-welcome {
@@ -468,6 +468,13 @@ label:focus {
     background-color: transparent;
 }
 
+#custom-dunst {
+    background: transparent;
+    font-size: 16px;
+    color: @textcolor3;
+    border-radius: 15px;
+    margin-right: 5px;
+}
 
 #custom-cliphist {
     background: transparent;
