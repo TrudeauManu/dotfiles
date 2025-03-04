@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/nightcity.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#050505",
+        "foreground": "#cecece",
+        "cursor": "#cecece"
+    },
+    "colors": {
+        "color0": "#050505",
+        "color1": "#3D3D3D",
+        "color2": "#434343",
+        "color3": "#4C4C4C",
+        "color4": "#545454",
+        "color5": "#6E6E6E",
+        "color6": "#8E8E8E",
+        "color7": "#cecece",
+        "color8": "#909090",
+        "color9": "#3D3D3D",
+        "color10": "#434343",
+        "color11": "#4C4C4C",
+        "color12": "#545454",
+        "color13": "#6E6E6E",
+        "color14": "#8E8E8E",
+        "color15": "#cecece"
+    }
+}

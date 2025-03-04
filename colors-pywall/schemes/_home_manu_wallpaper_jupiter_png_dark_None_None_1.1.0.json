@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/jupiter.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f17",
+        "foreground": "#c4cbdb",
+        "cursor": "#c4cbdb"
+    },
+    "colors": {
+        "color0": "#0f0f17",
+        "color1": "#6F7086",
+        "color2": "#827587",
+        "color3": "#919FB8",
+        "color4": "#DE9AA4",
+        "color5": "#EB9BA7",
+        "color6": "#ECCCAF",
+        "color7": "#c4cbdb",
+        "color8": "#898e99",
+        "color9": "#6F7086",
+        "color10": "#827587",
+        "color11": "#919FB8",
+        "color12": "#DE9AA4",
+        "color13": "#EB9BA7",
+        "color14": "#ECCCAF",
+        "color15": "#c4cbdb"
+    }
+}

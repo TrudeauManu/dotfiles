@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/2d9tERf-gigapixel-scale-2_00x.png",
+    "alpha": "100",
+    "special": {
+        "background": "#070607",
+        "foreground": "#c8c8c6",
+        "cursor": "#c8c8c6"
+    },
+    "colors": {
+        "color0": "#070607",
+        "color1": "#374348",
+        "color2": "#646054",
+        "color3": "#865C3B",
+        "color4": "#8E7152",
+        "color5": "#A9936A",
+        "color6": "#75878A",
+        "color7": "#c8c8c6",
+        "color8": "#8c8c8a",
+        "color9": "#374348",
+        "color10": "#646054",
+        "color11": "#865C3B",
+        "color12": "#8E7152",
+        "color13": "#A9936A",
+        "color14": "#75878A",
+        "color15": "#c8c8c6"
+    }
+}

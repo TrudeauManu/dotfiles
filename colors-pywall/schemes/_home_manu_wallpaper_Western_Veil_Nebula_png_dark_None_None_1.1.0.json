@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/Western_Veil_Nebula.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f0f",
+        "foreground": "#aebfd1",
+        "cursor": "#aebfd1"
+    },
+    "colors": {
+        "color0": "#0f0f0f",
+        "color1": "#2A3848",
+        "color2": "#37485C",
+        "color3": "#5C5356",
+        "color4": "#943535",
+        "color5": "#956161",
+        "color6": "#506E91",
+        "color7": "#aebfd1",
+        "color8": "#798592",
+        "color9": "#2A3848",
+        "color10": "#37485C",
+        "color11": "#5C5356",
+        "color12": "#943535",
+        "color13": "#956161",
+        "color14": "#506E91",
+        "color15": "#aebfd1"
+    }
+}

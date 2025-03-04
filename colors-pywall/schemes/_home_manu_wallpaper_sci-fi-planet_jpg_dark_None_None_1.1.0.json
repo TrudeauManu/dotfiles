@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/sci-fi-planet.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#130f14",
+        "foreground": "#ddd1c5",
+        "cursor": "#ddd1c5"
+    },
+    "colors": {
+        "color0": "#130f14",
+        "color1": "#EAA433",
+        "color2": "#EAB737",
+        "color3": "#A78863",
+        "color4": "#D59F54",
+        "color5": "#FCD55B",
+        "color6": "#5F7284",
+        "color7": "#ddd1c5",
+        "color8": "#9a9289",
+        "color9": "#EAA433",
+        "color10": "#EAB737",
+        "color11": "#A78863",
+        "color12": "#D59F54",
+        "color13": "#FCD55B",
+        "color14": "#5F7284",
+        "color15": "#ddd1c5"
+    }
+}

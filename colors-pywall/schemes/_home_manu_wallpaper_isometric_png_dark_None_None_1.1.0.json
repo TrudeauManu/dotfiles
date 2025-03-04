@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/isometric.png",
+    "alpha": "100",
+    "special": {
+        "background": "#002B36",
+        "foreground": "#eceae2",
+        "cursor": "#eceae2"
+    },
+    "colors": {
+        "color0": "#002B36",
+        "color1": "#657B83",
+        "color2": "#748889",
+        "color3": "#899998",
+        "color4": "#96A3A2",
+        "color5": "#A5AFA7",
+        "color6": "#C2C6BA",
+        "color7": "#eceae2",
+        "color8": "#a5a39e",
+        "color9": "#657B83",
+        "color10": "#748889",
+        "color11": "#899998",
+        "color12": "#96A3A2",
+        "color13": "#A5AFA7",
+        "color14": "#C2C6BA",
+        "color15": "#eceae2"
+    }
+}

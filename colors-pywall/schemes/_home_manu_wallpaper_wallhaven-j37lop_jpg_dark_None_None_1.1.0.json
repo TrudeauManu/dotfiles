@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-j37lop.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#04050B",
+        "foreground": "#9ac2ba",
+        "cursor": "#9ac2ba"
+    },
+    "colors": {
+        "color0": "#04050B",
+        "color1": "#414D49",
+        "color2": "#665659",
+        "color3": "#B44D38",
+        "color4": "#933A51",
+        "color5": "#9C5B5F",
+        "color6": "#DC934E",
+        "color7": "#9ac2ba",
+        "color8": "#6b8782",
+        "color9": "#414D49",
+        "color10": "#665659",
+        "color11": "#B44D38",
+        "color12": "#933A51",
+        "color13": "#9C5B5F",
+        "color14": "#DC934E",
+        "color15": "#9ac2ba"
+    }
+}

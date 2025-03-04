@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/verdant-moonlight.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090a12",
+        "foreground": "#aed09e",
+        "cursor": "#aed09e"
+    },
+    "colors": {
+        "color0": "#090a12",
+        "color1": "#154E4A",
+        "color2": "#1D664D",
+        "color3": "#277149",
+        "color4": "#467343",
+        "color5": "#329251",
+        "color6": "#53A652",
+        "color7": "#aed09e",
+        "color8": "#79916e",
+        "color9": "#154E4A",
+        "color10": "#1D664D",
+        "color11": "#277149",
+        "color12": "#467343",
+        "color13": "#329251",
+        "color14": "#53A652",
+        "color15": "#aed09e"
+    }
+}

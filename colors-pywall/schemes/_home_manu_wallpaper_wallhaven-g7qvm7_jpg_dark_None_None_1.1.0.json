@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-g7qvm7.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0610",
+        "foreground": "#ccb3ba",
+        "cursor": "#ccb3ba"
+    },
+    "colors": {
+        "color0": "#0a0610",
+        "color1": "#6A2F34",
+        "color2": "#342844",
+        "color3": "#5B3048",
+        "color4": "#68525E",
+        "color5": "#8A3A43",
+        "color6": "#985D6B",
+        "color7": "#ccb3ba",
+        "color8": "#8e7d82",
+        "color9": "#6A2F34",
+        "color10": "#342844",
+        "color11": "#5B3048",
+        "color12": "#68525E",
+        "color13": "#8A3A43",
+        "color14": "#985D6B",
+        "color15": "#ccb3ba"
+    }
+}

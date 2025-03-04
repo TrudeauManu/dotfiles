@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/northen-light.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#091317",
+        "foreground": "#c6c3b1",
+        "cursor": "#c6c3b1"
+    },
+    "colors": {
+        "color0": "#091317",
+        "color1": "#195E32",
+        "color2": "#095446",
+        "color3": "#096E52",
+        "color4": "#11755F",
+        "color5": "#39AB46",
+        "color6": "#119669",
+        "color7": "#c6c3b1",
+        "color8": "#8a887b",
+        "color9": "#195E32",
+        "color10": "#095446",
+        "color11": "#096E52",
+        "color12": "#11755F",
+        "color13": "#39AB46",
+        "color14": "#119669",
+        "color15": "#c6c3b1"
+    }
+}

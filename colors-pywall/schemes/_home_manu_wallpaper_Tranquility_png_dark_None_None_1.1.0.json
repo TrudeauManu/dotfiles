@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/Tranquility.png",
+    "alpha": "100",
+    "special": {
+        "background": "#111113",
+        "foreground": "#ebe3d0",
+        "cursor": "#ebe3d0"
+    },
+    "colors": {
+        "color0": "#111113",
+        "color1": "#A3987D",
+        "color2": "#A89D82",
+        "color3": "#B6A98A",
+        "color4": "#C8B997",
+        "color5": "#D1C29E",
+        "color6": "#D9CAA5",
+        "color7": "#ebe3d0",
+        "color8": "#a49e91",
+        "color9": "#A3987D",
+        "color10": "#A89D82",
+        "color11": "#B6A98A",
+        "color12": "#C8B997",
+        "color13": "#D1C29E",
+        "color14": "#D9CAA5",
+        "color15": "#ebe3d0"
+    }
+}

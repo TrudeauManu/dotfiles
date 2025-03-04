@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/abstract-swirls.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c12",
+        "foreground": "#c2c0cc",
+        "cursor": "#c2c0cc"
+    },
+    "colors": {
+        "color0": "#0c0c12",
+        "color1": "#525569",
+        "color2": "#636478",
+        "color3": "#87727A",
+        "color4": "#6E738A",
+        "color5": "#907892",
+        "color6": "#798AA3",
+        "color7": "#c2c0cc",
+        "color8": "#87868e",
+        "color9": "#525569",
+        "color10": "#636478",
+        "color11": "#87727A",
+        "color12": "#6E738A",
+        "color13": "#907892",
+        "color14": "#798AA3",
+        "color15": "#c2c0cc"
+    }
+}

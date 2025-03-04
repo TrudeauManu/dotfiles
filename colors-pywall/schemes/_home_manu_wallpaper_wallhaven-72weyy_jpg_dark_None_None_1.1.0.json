@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-72weyy.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121315",
+        "foreground": "#aab9c0",
+        "cursor": "#aab9c0"
+    },
+    "colors": {
+        "color0": "#121315",
+        "color1": "#90837D",
+        "color2": "#395985",
+        "color3": "#3D6892",
+        "color4": "#3D79A2",
+        "color5": "#486F8D",
+        "color6": "#6A7786",
+        "color7": "#aab9c0",
+        "color8": "#768186",
+        "color9": "#90837D",
+        "color10": "#395985",
+        "color11": "#3D6892",
+        "color12": "#3D79A2",
+        "color13": "#486F8D",
+        "color14": "#6A7786",
+        "color15": "#aab9c0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-721k2y.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F1531",
+        "foreground": "#a8c6cf",
+        "cursor": "#a8c6cf"
+    },
+    "colors": {
+        "color0": "#0F1531",
+        "color1": "#8D5157",
+        "color2": "#CB936F",
+        "color3": "#763D93",
+        "color4": "#335683",
+        "color5": "#4971A3",
+        "color6": "#AA6895",
+        "color7": "#a8c6cf",
+        "color8": "#758a90",
+        "color9": "#8D5157",
+        "color10": "#CB936F",
+        "color11": "#763D93",
+        "color12": "#335683",
+        "color13": "#4971A3",
+        "color14": "#AA6895",
+        "color15": "#a8c6cf"
+    }
+}

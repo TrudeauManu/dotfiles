@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-g75x53.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090d13",
+        "foreground": "#dfe2ea",
+        "cursor": "#dfe2ea"
+    },
+    "colors": {
+        "color0": "#090d13",
+        "color1": "#5D708E",
+        "color2": "#807D87",
+        "color3": "#7688A6",
+        "color4": "#8B9CB7",
+        "color5": "#A6B3CB",
+        "color6": "#B9C4D8",
+        "color7": "#dfe2ea",
+        "color8": "#9c9ea3",
+        "color9": "#5D708E",
+        "color10": "#807D87",
+        "color11": "#7688A6",
+        "color12": "#8B9CB7",
+        "color13": "#A6B3CB",
+        "color14": "#B9C4D8",
+        "color15": "#dfe2ea"
+    }
+}

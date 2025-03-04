@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-13mk9v_3840x2160.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0913",
+        "foreground": "#d0c7d4",
+        "cursor": "#d0c7d4"
+    },
+    "colors": {
+        "color0": "#0c0913",
+        "color1": "#554A61",
+        "color2": "#C43647",
+        "color3": "#F55763",
+        "color4": "#36549B",
+        "color5": "#E67985",
+        "color6": "#5F96CB",
+        "color7": "#d0c7d4",
+        "color8": "#918b94",
+        "color9": "#554A61",
+        "color10": "#C43647",
+        "color11": "#F55763",
+        "color12": "#36549B",
+        "color13": "#E67985",
+        "color14": "#5F96CB",
+        "color15": "#d0c7d4"
+    }
+}

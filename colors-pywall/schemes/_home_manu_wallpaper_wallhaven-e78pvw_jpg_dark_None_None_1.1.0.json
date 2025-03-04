@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-e78pvw.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151219",
+        "foreground": "#e4bba1",
+        "cursor": "#e4bba1"
+    },
+    "colors": {
+        "color0": "#151219",
+        "color1": "#8F7772",
+        "color2": "#AE7867",
+        "color3": "#C87656",
+        "color4": "#C2775D",
+        "color5": "#94827B",
+        "color6": "#A78270",
+        "color7": "#e4bba1",
+        "color8": "#9f8270",
+        "color9": "#8F7772",
+        "color10": "#AE7867",
+        "color11": "#C87656",
+        "color12": "#C2775D",
+        "color13": "#94827B",
+        "color14": "#A78270",
+        "color15": "#e4bba1"
+    }
+}

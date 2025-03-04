@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/spider-verse.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060813",
+        "foreground": "#aab9d0",
+        "cursor": "#aab9d0"
+    },
+    "colors": {
+        "color0": "#060813",
+        "color1": "#3A4488",
+        "color2": "#2559A2",
+        "color3": "#464F92",
+        "color4": "#525BA4",
+        "color5": "#5664AA",
+        "color6": "#3D46C8",
+        "color7": "#aab9d0",
+        "color8": "#768191",
+        "color9": "#3A4488",
+        "color10": "#2559A2",
+        "color11": "#464F92",
+        "color12": "#525BA4",
+        "color13": "#5664AA",
+        "color14": "#3D46C8",
+        "color15": "#aab9d0"
+    }
+}

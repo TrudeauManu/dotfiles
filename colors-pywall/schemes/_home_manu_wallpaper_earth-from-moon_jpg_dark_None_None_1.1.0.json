@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/earth-from-moon.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#cbd3e0",
+        "cursor": "#cbd3e0"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#585E6C",
+        "color2": "#3F5A81",
+        "color3": "#6D7689",
+        "color4": "#807F85",
+        "color5": "#78879F",
+        "color6": "#92959E",
+        "color7": "#cbd3e0",
+        "color8": "#8e939c",
+        "color9": "#585E6C",
+        "color10": "#3F5A81",
+        "color11": "#6D7689",
+        "color12": "#807F85",
+        "color13": "#78879F",
+        "color14": "#92959E",
+        "color15": "#cbd3e0"
+    }
+}

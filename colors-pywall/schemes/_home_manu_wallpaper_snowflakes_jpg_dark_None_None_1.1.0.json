@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/snowflakes.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1018",
+        "foreground": "#cfdbe9",
+        "cursor": "#cfdbe9"
+    },
+    "colors": {
+        "color0": "#0f1018",
+        "color1": "#5D6A83",
+        "color2": "#70758B",
+        "color3": "#857C82",
+        "color4": "#7C849C",
+        "color5": "#8993AE",
+        "color6": "#9CB3D8",
+        "color7": "#cfdbe9",
+        "color8": "#9099a3",
+        "color9": "#5D6A83",
+        "color10": "#70758B",
+        "color11": "#857C82",
+        "color12": "#7C849C",
+        "color13": "#8993AE",
+        "color14": "#9CB3D8",
+        "color15": "#cfdbe9"
+    }
+}

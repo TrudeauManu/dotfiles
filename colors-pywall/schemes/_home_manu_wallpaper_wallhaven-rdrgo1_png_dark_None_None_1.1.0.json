@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-rdrgo1.png",
+    "alpha": "100",
+    "special": {
+        "background": "#02152D",
+        "foreground": "#ce9a9e",
+        "cursor": "#ce9a9e"
+    },
+    "colors": {
+        "color0": "#02152D",
+        "color1": "#623D4A",
+        "color2": "#19425D",
+        "color3": "#28465B",
+        "color4": "#12486B",
+        "color5": "#2A5169",
+        "color6": "#29607B",
+        "color7": "#ce9a9e",
+        "color8": "#906b6e",
+        "color9": "#623D4A",
+        "color10": "#19425D",
+        "color11": "#28465B",
+        "color12": "#12486B",
+        "color13": "#2A5169",
+        "color14": "#29607B",
+        "color15": "#ce9a9e"
+    }
+}

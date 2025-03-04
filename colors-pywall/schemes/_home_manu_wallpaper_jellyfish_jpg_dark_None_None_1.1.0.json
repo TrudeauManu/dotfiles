@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/jellyfish.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E101C",
+        "foreground": "#c4c5c6",
+        "cursor": "#c4c5c6"
+    },
+    "colors": {
+        "color0": "#0E101C",
+        "color1": "#5B5969",
+        "color2": "#6B6B74",
+        "color3": "#85737A",
+        "color4": "#737786",
+        "color5": "#9B768A",
+        "color6": "#768E90",
+        "color7": "#c4c5c6",
+        "color8": "#89898a",
+        "color9": "#5B5969",
+        "color10": "#6B6B74",
+        "color11": "#85737A",
+        "color12": "#737786",
+        "color13": "#9B768A",
+        "color14": "#768E90",
+        "color15": "#c4c5c6"
+    }
+}

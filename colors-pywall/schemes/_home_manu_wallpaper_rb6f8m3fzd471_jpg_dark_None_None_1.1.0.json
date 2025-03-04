@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/rb6f8m3fzd471.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151117",
+        "foreground": "#a9c3d9",
+        "cursor": "#a9c3d9"
+    },
+    "colors": {
+        "color0": "#151117",
+        "color1": "#E09D69",
+        "color2": "#336A8F",
+        "color3": "#54688E",
+        "color4": "#555CC8",
+        "color5": "#A96191",
+        "color6": "#678BA8",
+        "color7": "#a9c3d9",
+        "color8": "#768897",
+        "color9": "#E09D69",
+        "color10": "#336A8F",
+        "color11": "#54688E",
+        "color12": "#555CC8",
+        "color13": "#A96191",
+        "color14": "#678BA8",
+        "color15": "#a9c3d9"
+    }
+}

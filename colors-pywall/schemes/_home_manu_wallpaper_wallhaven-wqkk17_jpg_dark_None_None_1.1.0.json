@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-wqkk17.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0a1f",
+        "foreground": "#e6c7dd",
+        "cursor": "#e6c7dd"
+    },
+    "colors": {
+        "color0": "#0f0a1f",
+        "color1": "#703EA2",
+        "color2": "#75459C",
+        "color3": "#995BAA",
+        "color4": "#C579BB",
+        "color5": "#D596CB",
+        "color6": "#EE95C7",
+        "color7": "#e6c7dd",
+        "color8": "#a18b9a",
+        "color9": "#703EA2",
+        "color10": "#75459C",
+        "color11": "#995BAA",
+        "color12": "#C579BB",
+        "color13": "#D596CB",
+        "color14": "#EE95C7",
+        "color15": "#e6c7dd"
+    }
+}

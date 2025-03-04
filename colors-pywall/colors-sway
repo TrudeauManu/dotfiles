@@ -1,0 +1,21 @@
+set $wallpaper /home/manu/wallpaper/corals-fish-underwater.jpg
+
+set $background #14151e
+set $foreground #cde0e7
+
+set $color0 #14151e
+set $color1 #837C8F
+set $color2 #7B859E
+set $color3 #7EA3C1
+set $color4 #8896B2
+set $color5 #8FB1D6
+set $color6 #94C9E5
+set $color7 #cde0e7
+set $color8 #8f9ca1
+set $color9 #837C8F
+set $color10 #7B859E
+set $color11 #7EA3C1
+set $color12 #8896B2
+set $color13 #8FB1D6
+set $color14 #94C9E5
+set $color15 #cde0e7

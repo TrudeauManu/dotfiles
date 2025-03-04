@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/blossoms.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#110d0d",
+        "foreground": "#dfd3c2",
+        "cursor": "#dfd3c2"
+    },
+    "colors": {
+        "color0": "#110d0d",
+        "color1": "#8F2E29",
+        "color2": "#8A7462",
+        "color3": "#9B8972",
+        "color4": "#7E7F81",
+        "color5": "#8C8B8C",
+        "color6": "#AF9E8C",
+        "color7": "#dfd3c2",
+        "color8": "#9c9387",
+        "color9": "#8F2E29",
+        "color10": "#8A7462",
+        "color11": "#9B8972",
+        "color12": "#7E7F81",
+        "color13": "#8C8B8C",
+        "color14": "#AF9E8C",
+        "color15": "#dfd3c2"
+    }
+}

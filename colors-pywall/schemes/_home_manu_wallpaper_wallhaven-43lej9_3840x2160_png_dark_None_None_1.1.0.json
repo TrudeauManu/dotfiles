@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-43lej9_3840x2160.png",
+    "alpha": "100",
+    "special": {
+        "background": "#10100f",
+        "foreground": "#e7e7e6",
+        "cursor": "#e7e7e6"
+    },
+    "colors": {
+        "color0": "#10100f",
+        "color1": "#7F7F80",
+        "color2": "#8E8E8E",
+        "color3": "#A0A09F",
+        "color4": "#AEAEAD",
+        "color5": "#C0C0BF",
+        "color6": "#CCCCCC",
+        "color7": "#e7e7e6",
+        "color8": "#a1a1a1",
+        "color9": "#7F7F80",
+        "color10": "#8E8E8E",
+        "color11": "#A0A09F",
+        "color12": "#AEAEAD",
+        "color13": "#C0C0BF",
+        "color14": "#CCCCCC",
+        "color15": "#e7e7e6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/57xg1qmfrvh91.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0c0d",
+        "foreground": "#e3ebeb",
+        "cursor": "#e3ebeb"
+    },
+    "colors": {
+        "color0": "#0a0c0d",
+        "color1": "#99A6A6",
+        "color2": "#A8B5B6",
+        "color3": "#B1BFC0",
+        "color4": "#B9C7C7",
+        "color5": "#C8D7D8",
+        "color6": "#D0DFE0",
+        "color7": "#e3ebeb",
+        "color8": "#9ea4a4",
+        "color9": "#99A6A6",
+        "color10": "#A8B5B6",
+        "color11": "#B1BFC0",
+        "color12": "#B9C7C7",
+        "color13": "#C8D7D8",
+        "color14": "#D0DFE0",
+        "color15": "#e3ebeb"
+    }
+}

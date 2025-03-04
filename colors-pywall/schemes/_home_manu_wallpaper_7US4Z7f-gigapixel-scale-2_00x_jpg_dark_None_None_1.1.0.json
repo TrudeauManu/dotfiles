@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/7US4Z7f-gigapixel-scale-2_00x.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E1730",
+        "foreground": "#d795c9",
+        "cursor": "#d795c9"
+    },
+    "colors": {
+        "color0": "#0E1730",
+        "color1": "#CF0F2F",
+        "color2": "#A0275D",
+        "color3": "#E80D5B",
+        "color4": "#103593",
+        "color5": "#1B499E",
+        "color6": "#3154C9",
+        "color7": "#d795c9",
+        "color8": "#96688c",
+        "color9": "#CF0F2F",
+        "color10": "#A0275D",
+        "color11": "#E80D5B",
+        "color12": "#103593",
+        "color13": "#1B499E",
+        "color14": "#3154C9",
+        "color15": "#d795c9"
+    }
+}

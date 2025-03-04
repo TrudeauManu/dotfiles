@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/the-new-york-public-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#3e312a",
+        "foreground": "#ede4dc",
+        "cursor": "#ede4dc"
+    },
+    "colors": {
+        "color0": "#3e312a",
+        "color1": "#496F8A",
+        "color2": "#73868E",
+        "color3": "#A59B8C",
+        "color4": "#D5AF8F",
+        "color5": "#EDBC84",
+        "color6": "#F1C693",
+        "color7": "#ede4dc",
+        "color8": "#a59f9a",
+        "color9": "#496F8A",
+        "color10": "#73868E",
+        "color11": "#A59B8C",
+        "color12": "#D5AF8F",
+        "color13": "#EDBC84",
+        "color14": "#F1C693",
+        "color15": "#ede4dc"
+    }
+}

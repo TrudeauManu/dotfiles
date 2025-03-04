@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/spaceship_maze.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c080d",
+        "foreground": "#dcc7b3",
+        "cursor": "#dcc7b3"
+    },
+    "colors": {
+        "color0": "#0c080d",
+        "color1": "#613C42",
+        "color2": "#714B49",
+        "color3": "#6B594A",
+        "color4": "#87513D",
+        "color5": "#946559",
+        "color6": "#B08A6C",
+        "color7": "#dcc7b3",
+        "color8": "#9a8b7d",
+        "color9": "#613C42",
+        "color10": "#714B49",
+        "color11": "#6B594A",
+        "color12": "#87513D",
+        "color13": "#946559",
+        "color14": "#B08A6C",
+        "color15": "#dcc7b3"
+    }
+}

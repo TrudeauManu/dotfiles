@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/7lnsnj1104391.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#081B2A",
+        "foreground": "#ede2c7",
+        "cursor": "#ede2c7"
+    },
+    "colors": {
+        "color0": "#081B2A",
+        "color1": "#707B86",
+        "color2": "#446BAC",
+        "color3": "#149B92",
+        "color4": "#54BAB4",
+        "color5": "#6D97E5",
+        "color6": "#ADAFBB",
+        "color7": "#ede2c7",
+        "color8": "#a59e8b",
+        "color9": "#707B86",
+        "color10": "#446BAC",
+        "color11": "#149B92",
+        "color12": "#54BAB4",
+        "color13": "#6D97E5",
+        "color14": "#ADAFBB",
+        "color15": "#ede2c7"
+    }
+}

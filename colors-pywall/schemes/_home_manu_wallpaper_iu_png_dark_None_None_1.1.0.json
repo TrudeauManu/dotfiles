@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/iu.png",
+    "alpha": "100",
+    "special": {
+        "background": "#03022F",
+        "foreground": "#a7dff5",
+        "cursor": "#a7dff5"
+    },
+    "colors": {
+        "color0": "#03022F",
+        "color1": "#0562B0",
+        "color2": "#434AA6",
+        "color3": "#0377C6",
+        "color4": "#9B6FB4",
+        "color5": "#059DE2",
+        "color6": "#42A3E0",
+        "color7": "#a7dff5",
+        "color8": "#749cab",
+        "color9": "#0562B0",
+        "color10": "#434AA6",
+        "color11": "#0377C6",
+        "color12": "#9B6FB4",
+        "color13": "#059DE2",
+        "color14": "#42A3E0",
+        "color15": "#a7dff5"
+    }
+}

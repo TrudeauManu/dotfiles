@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-6omo76.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#04062F",
+        "foreground": "#f1d1d7",
+        "cursor": "#f1d1d7"
+    },
+    "colors": {
+        "color0": "#04062F",
+        "color1": "#853D6F",
+        "color2": "#9A4878",
+        "color3": "#C6977D",
+        "color4": "#AF5887",
+        "color5": "#D16591",
+        "color6": "#F09DB0",
+        "color7": "#f1d1d7",
+        "color8": "#a89296",
+        "color9": "#853D6F",
+        "color10": "#9A4878",
+        "color11": "#C6977D",
+        "color12": "#AF5887",
+        "color13": "#D16591",
+        "color14": "#F09DB0",
+        "color15": "#f1d1d7"
+    }
+}

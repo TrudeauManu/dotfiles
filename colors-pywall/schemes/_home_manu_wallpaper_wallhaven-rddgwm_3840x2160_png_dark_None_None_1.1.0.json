@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-rddgwm_3840x2160.png",
+    "alpha": "100",
+    "special": {
+        "background": "#100f0e",
+        "foreground": "#a4c1ce",
+        "cursor": "#a4c1ce"
+    },
+    "colors": {
+        "color0": "#100f0e",
+        "color1": "#304555",
+        "color2": "#30516C",
+        "color3": "#56565B",
+        "color4": "#976959",
+        "color5": "#B68D73",
+        "color6": "#48718B",
+        "color7": "#a4c1ce",
+        "color8": "#728790",
+        "color9": "#304555",
+        "color10": "#30516C",
+        "color11": "#56565B",
+        "color12": "#976959",
+        "color13": "#B68D73",
+        "color14": "#48718B",
+        "color15": "#a4c1ce"
+    }
+}

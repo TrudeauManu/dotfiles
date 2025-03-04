@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/4deebda8f65309b2d9b4e83c8201bead.png",
+    "alpha": "100",
+    "special": {
+        "background": "#222834",
+        "foreground": "#c9d4d9",
+        "cursor": "#c9d4d9"
+    },
+    "colors": {
+        "color0": "#222834",
+        "color1": "#5F7487",
+        "color2": "#8D7B84",
+        "color3": "#718A96",
+        "color4": "#6BAAC8",
+        "color5": "#999EA3",
+        "color6": "#DAC1BB",
+        "color7": "#c9d4d9",
+        "color8": "#8c9497",
+        "color9": "#5F7487",
+        "color10": "#8D7B84",
+        "color11": "#718A96",
+        "color12": "#6BAAC8",
+        "color13": "#999EA3",
+        "color14": "#DAC1BB",
+        "color15": "#c9d4d9"
+    }
+}

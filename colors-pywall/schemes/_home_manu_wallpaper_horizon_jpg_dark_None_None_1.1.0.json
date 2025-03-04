@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/horizon.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0b12",
+        "foreground": "#e6c7cf",
+        "cursor": "#e6c7cf"
+    },
+    "colors": {
+        "color0": "#0a0b12",
+        "color1": "#525669",
+        "color2": "#626579",
+        "color3": "#70748A",
+        "color4": "#90778B",
+        "color5": "#7C849D",
+        "color6": "#9690AA",
+        "color7": "#e6c7cf",
+        "color8": "#a18b90",
+        "color9": "#525669",
+        "color10": "#626579",
+        "color11": "#70748A",
+        "color12": "#90778B",
+        "color13": "#7C849D",
+        "color14": "#9690AA",
+        "color15": "#e6c7cf"
+    }
+}

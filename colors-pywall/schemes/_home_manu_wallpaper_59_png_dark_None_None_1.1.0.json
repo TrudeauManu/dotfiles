@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/59.png",
+    "alpha": "100",
+    "special": {
+        "background": "#020305",
+        "foreground": "#d1c3c6",
+        "cursor": "#d1c3c6"
+    },
+    "colors": {
+        "color0": "#020305",
+        "color1": "#673A4F",
+        "color2": "#604F62",
+        "color3": "#B44951",
+        "color4": "#9A646F",
+        "color5": "#997886",
+        "color6": "#A17B81",
+        "color7": "#d1c3c6",
+        "color8": "#92888a",
+        "color9": "#673A4F",
+        "color10": "#604F62",
+        "color11": "#B44951",
+        "color12": "#9A646F",
+        "color13": "#997886",
+        "color14": "#A17B81",
+        "color15": "#d1c3c6"
+    }
+}

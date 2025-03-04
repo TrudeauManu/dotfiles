@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/full-moon-4-19201080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#040C19",
+        "foreground": "#e8a1c2",
+        "cursor": "#e8a1c2"
+    },
+    "colors": {
+        "color0": "#040C19",
+        "color1": "#57324C",
+        "color2": "#5D3359",
+        "color3": "#03456B",
+        "color4": "#235267",
+        "color5": "#963B66",
+        "color6": "#B34467",
+        "color7": "#e8a1c2",
+        "color8": "#a27087",
+        "color9": "#57324C",
+        "color10": "#5D3359",
+        "color11": "#03456B",
+        "color12": "#235267",
+        "color13": "#963B66",
+        "color14": "#B34467",
+        "color15": "#e8a1c2"
+    }
+}

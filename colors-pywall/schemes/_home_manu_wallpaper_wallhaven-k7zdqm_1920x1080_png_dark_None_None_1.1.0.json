@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-k7zdqm_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#111212",
+        "foreground": "#dac1aa",
+        "cursor": "#dac1aa"
+    },
+    "colors": {
+        "color0": "#111212",
+        "color1": "#414043",
+        "color2": "#544842",
+        "color3": "#705343",
+        "color4": "#89573D",
+        "color5": "#9A684A",
+        "color6": "#C67A4E",
+        "color7": "#dac1aa",
+        "color8": "#988776",
+        "color9": "#414043",
+        "color10": "#544842",
+        "color11": "#705343",
+        "color12": "#89573D",
+        "color13": "#9A684A",
+        "color14": "#C67A4E",
+        "color15": "#dac1aa"
+    }
+}

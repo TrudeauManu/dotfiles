@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/flying-comets-clouds.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0f16",
+        "foreground": "#ecddd1",
+        "cursor": "#ecddd1"
+    },
+    "colors": {
+        "color0": "#0e0f16",
+        "color1": "#626579",
+        "color2": "#71758A",
+        "color3": "#827E92",
+        "color4": "#998DA2",
+        "color5": "#D7A0AB",
+        "color6": "#EBB1A8",
+        "color7": "#ecddd1",
+        "color8": "#a59a92",
+        "color9": "#626579",
+        "color10": "#71758A",
+        "color11": "#827E92",
+        "color12": "#998DA2",
+        "color13": "#D7A0AB",
+        "color14": "#EBB1A8",
+        "color15": "#ecddd1"
+    }
+}

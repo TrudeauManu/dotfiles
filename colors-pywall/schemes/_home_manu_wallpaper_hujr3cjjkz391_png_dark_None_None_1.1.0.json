@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/hujr3cjjkz391.png",
+    "alpha": "100",
+    "special": {
+        "background": "#03101A",
+        "foreground": "#eace9d",
+        "cursor": "#eace9d"
+    },
+    "colors": {
+        "color0": "#03101A",
+        "color1": "#34644D",
+        "color2": "#546648",
+        "color3": "#917541",
+        "color4": "#B48443",
+        "color5": "#88967A",
+        "color6": "#D39245",
+        "color7": "#eace9d",
+        "color8": "#a3906d",
+        "color9": "#34644D",
+        "color10": "#546648",
+        "color11": "#917541",
+        "color12": "#B48443",
+        "color13": "#88967A",
+        "color14": "#D39245",
+        "color15": "#eace9d"
+    }
+}

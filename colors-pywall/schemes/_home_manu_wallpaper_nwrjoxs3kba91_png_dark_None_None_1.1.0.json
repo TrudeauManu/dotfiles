@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/nwrjoxs3kba91.png",
+    "alpha": "100",
+    "special": {
+        "background": "#151215",
+        "foreground": "#e4cbc1",
+        "cursor": "#e4cbc1"
+    },
+    "colors": {
+        "color0": "#151215",
+        "color1": "#325B84",
+        "color2": "#36638D",
+        "color3": "#556787",
+        "color4": "#4B6990",
+        "color5": "#8C7C84",
+        "color6": "#AF8F8A",
+        "color7": "#e4cbc1",
+        "color8": "#9f8e87",
+        "color9": "#325B84",
+        "color10": "#36638D",
+        "color11": "#556787",
+        "color12": "#4B6990",
+        "color13": "#8C7C84",
+        "color14": "#AF8F8A",
+        "color15": "#e4cbc1"
+    }
+}

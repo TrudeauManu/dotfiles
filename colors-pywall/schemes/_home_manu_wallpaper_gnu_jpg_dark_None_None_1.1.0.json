@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/gnu.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C1E20",
+        "foreground": "#e9a2a3",
+        "cursor": "#e9a2a3"
+    },
+    "colors": {
+        "color0": "#0C1E20",
+        "color1": "#443F42",
+        "color2": "#6C3E41",
+        "color3": "#514243",
+        "color4": "#6B4D49",
+        "color5": "#7C624D",
+        "color6": "#8F644F",
+        "color7": "#e9a2a3",
+        "color8": "#a37172",
+        "color9": "#443F42",
+        "color10": "#6C3E41",
+        "color11": "#514243",
+        "color12": "#6B4D49",
+        "color13": "#7C624D",
+        "color14": "#8F644F",
+        "color15": "#e9a2a3"
+    }
+}

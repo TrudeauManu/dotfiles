@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/david-rodrigo-Fr6zexbmjmc-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#131311",
+        "foreground": "#f0e1dd",
+        "cursor": "#f0e1dd"
+    },
+    "colors": {
+        "color0": "#131311",
+        "color1": "#D3936A",
+        "color2": "#6E958E",
+        "color3": "#A2AAA4",
+        "color4": "#DCB6A9",
+        "color5": "#EEC8B5",
+        "color6": "#D8BEC1",
+        "color7": "#f0e1dd",
+        "color8": "#a89d9a",
+        "color9": "#D3936A",
+        "color10": "#6E958E",
+        "color11": "#A2AAA4",
+        "color12": "#DCB6A9",
+        "color13": "#EEC8B5",
+        "color14": "#D8BEC1",
+        "color15": "#f0e1dd"
+    }
+}

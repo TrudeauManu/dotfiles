@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-v9pgj3_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0717",
+        "foreground": "#849ccc",
+        "cursor": "#849ccc"
+    },
+    "colors": {
+        "color0": "#0F0717",
+        "color1": "#5C2D65",
+        "color2": "#502F6F",
+        "color3": "#903A6E",
+        "color4": "#0E358E",
+        "color5": "#26378D",
+        "color6": "#663B84",
+        "color7": "#849ccc",
+        "color8": "#5c6d8e",
+        "color9": "#5C2D65",
+        "color10": "#502F6F",
+        "color11": "#903A6E",
+        "color12": "#0E358E",
+        "color13": "#26378D",
+        "color14": "#663B84",
+        "color15": "#849ccc"
+    }
+}

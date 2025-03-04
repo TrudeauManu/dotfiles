@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-735vvy.png",
+    "alpha": "100",
+    "special": {
+        "background": "#070B12",
+        "foreground": "#84d4db",
+        "cursor": "#84d4db"
+    },
+    "colors": {
+        "color0": "#070B12",
+        "color1": "#085F6E",
+        "color2": "#4D476F",
+        "color3": "#087787",
+        "color4": "#5F5D90",
+        "color5": "#A144AD",
+        "color6": "#0897A6",
+        "color7": "#84d4db",
+        "color8": "#5c9499",
+        "color9": "#085F6E",
+        "color10": "#4D476F",
+        "color11": "#087787",
+        "color12": "#5F5D90",
+        "color13": "#A144AD",
+        "color14": "#0897A6",
+        "color15": "#84d4db"
+    }
+}

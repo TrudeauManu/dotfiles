@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/h5syep5oh9a91.png",
+    "alpha": "100",
+    "special": {
+        "background": "#25313a",
+        "foreground": "#e2ebf0",
+        "cursor": "#e2ebf0"
+    },
+    "colors": {
+        "color0": "#25313a",
+        "color1": "#99B5C8",
+        "color2": "#A3BDCF",
+        "color3": "#B0C8D9",
+        "color4": "#BBD3E3",
+        "color5": "#C5D3DB",
+        "color6": "#C6DAE8",
+        "color7": "#e2ebf0",
+        "color8": "#9ea4a8",
+        "color9": "#99B5C8",
+        "color10": "#A3BDCF",
+        "color11": "#B0C8D9",
+        "color12": "#BBD3E3",
+        "color13": "#C5D3DB",
+        "color14": "#C6DAE8",
+        "color15": "#e2ebf0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-6kx9kq_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#09011b",
+        "foreground": "#eac6c9",
+        "cursor": "#eac6c9"
+    },
+    "colors": {
+        "color0": "#09011b",
+        "color1": "#1D2A9C",
+        "color2": "#403CA8",
+        "color3": "#2351D3",
+        "color4": "#AE5887",
+        "color5": "#54ADE6",
+        "color6": "#54B9EC",
+        "color7": "#eac6c9",
+        "color8": "#a38a8c",
+        "color9": "#1D2A9C",
+        "color10": "#403CA8",
+        "color11": "#2351D3",
+        "color12": "#AE5887",
+        "color13": "#54ADE6",
+        "color14": "#54B9EC",
+        "color15": "#eac6c9"
+    }
+}

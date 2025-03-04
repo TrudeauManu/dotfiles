@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/.cache/ml4w-wallpaper-generated/blackwhite-brightness80-earth-from-moon.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#d3d3d3",
+        "cursor": "#d3d3d3"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#5B5B5B",
+        "color2": "#676767",
+        "color3": "#777777",
+        "color4": "#878787",
+        "color5": "#979797",
+        "color6": "#A7A7A7",
+        "color7": "#d3d3d3",
+        "color8": "#939393",
+        "color9": "#5B5B5B",
+        "color10": "#676767",
+        "color11": "#777777",
+        "color12": "#878787",
+        "color13": "#979797",
+        "color14": "#A7A7A7",
+        "color15": "#d3d3d3"
+    }
+}

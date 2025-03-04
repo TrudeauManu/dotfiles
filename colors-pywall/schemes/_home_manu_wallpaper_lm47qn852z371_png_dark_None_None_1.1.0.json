@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/lm47qn852z371.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090808",
+        "foreground": "#e5f0ec",
+        "cursor": "#e5f0ec"
+    },
+    "colors": {
+        "color0": "#090808",
+        "color1": "#64514A",
+        "color2": "#97403C",
+        "color3": "#9A635E",
+        "color4": "#AB9074",
+        "color5": "#948591",
+        "color6": "#D6BAAE",
+        "color7": "#e5f0ec",
+        "color8": "#a0a8a5",
+        "color9": "#64514A",
+        "color10": "#97403C",
+        "color11": "#9A635E",
+        "color12": "#AB9074",
+        "color13": "#948591",
+        "color14": "#D6BAAE",
+        "color15": "#e5f0ec"
+    }
+}

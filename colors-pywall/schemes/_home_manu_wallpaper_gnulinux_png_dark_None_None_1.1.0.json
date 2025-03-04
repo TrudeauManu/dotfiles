@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/gnulinux.png",
+    "alpha": "100",
+    "special": {
+        "background": "#181818",
+        "foreground": "#e2d9c4",
+        "cursor": "#e2d9c4"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#9F8B56",
+        "color2": "#AD9967",
+        "color3": "#B9A676",
+        "color4": "#C2AE7D",
+        "color5": "#BDAD82",
+        "color6": "#C8B78B",
+        "color7": "#e2d9c4",
+        "color8": "#9e9789",
+        "color9": "#9F8B56",
+        "color10": "#AD9967",
+        "color11": "#B9A676",
+        "color12": "#C2AE7D",
+        "color13": "#BDAD82",
+        "color14": "#C8B78B",
+        "color15": "#e2d9c4"
+    }
+}

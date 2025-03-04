@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/fsociety.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101112",
+        "foreground": "#ece4d0",
+        "cursor": "#ece4d0"
+    },
+    "colors": {
+        "color0": "#101112",
+        "color1": "#827D6D",
+        "color2": "#8C8775",
+        "color3": "#96948B",
+        "color4": "#B7B7B0",
+        "color5": "#C3BDA6",
+        "color6": "#DAD2B2",
+        "color7": "#ece4d0",
+        "color8": "#a59f91",
+        "color9": "#827D6D",
+        "color10": "#8C8775",
+        "color11": "#96948B",
+        "color12": "#B7B7B0",
+        "color13": "#C3BDA6",
+        "color14": "#DAD2B2",
+        "color15": "#ece4d0"
+    }
+}

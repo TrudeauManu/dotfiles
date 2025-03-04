@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/tzmxap01ahi91.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090311",
+        "foreground": "#a7ccdd",
+        "cursor": "#a7ccdd"
+    },
+    "colors": {
+        "color0": "#090311",
+        "color1": "#C23A2E",
+        "color2": "#9E5C5B",
+        "color3": "#DF6950",
+        "color4": "#EB9A6A",
+        "color5": "#496892",
+        "color6": "#9C748A",
+        "color7": "#a7ccdd",
+        "color8": "#748e9a",
+        "color9": "#C23A2E",
+        "color10": "#9E5C5B",
+        "color11": "#DF6950",
+        "color12": "#EB9A6A",
+        "color13": "#496892",
+        "color14": "#9C748A",
+        "color15": "#a7ccdd"
+    }
+}

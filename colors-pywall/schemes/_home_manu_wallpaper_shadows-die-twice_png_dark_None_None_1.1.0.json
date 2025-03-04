@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/shadows-die-twice.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0e10",
+        "foreground": "#eccac4",
+        "cursor": "#eccac4"
+    },
+    "colors": {
+        "color0": "#0d0e10",
+        "color1": "#6A5557",
+        "color2": "#716167",
+        "color3": "#8E6F6E",
+        "color4": "#9E7875",
+        "color5": "#A6817F",
+        "color6": "#AE8A88",
+        "color7": "#eccac4",
+        "color8": "#a58d89",
+        "color9": "#6A5557",
+        "color10": "#716167",
+        "color11": "#8E6F6E",
+        "color12": "#9E7875",
+        "color13": "#A6817F",
+        "color14": "#AE8A88",
+        "color15": "#eccac4"
+    }
+}

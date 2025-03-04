@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/darkpurplewoods.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0E051B",
+        "foreground": "#87c2f6",
+        "cursor": "#87c2f6"
+    },
+    "colors": {
+        "color0": "#0E051B",
+        "color1": "#312A96",
+        "color2": "#522FA1",
+        "color3": "#2747AF",
+        "color4": "#2761DA",
+        "color5": "#6456D0",
+        "color6": "#9378D6",
+        "color7": "#87c2f6",
+        "color8": "#5e87ac",
+        "color9": "#312A96",
+        "color10": "#522FA1",
+        "color11": "#2747AF",
+        "color12": "#2761DA",
+        "color13": "#6456D0",
+        "color14": "#9378D6",
+        "color15": "#87c2f6"
+    }
+}

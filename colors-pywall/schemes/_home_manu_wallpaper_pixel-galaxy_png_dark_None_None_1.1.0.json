@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/pixel-galaxy.png",
+    "alpha": "100",
+    "special": {
+        "background": "#12121a",
+        "foreground": "#e4c5cc",
+        "cursor": "#e4c5cc"
+    },
+    "colors": {
+        "color0": "#12121a",
+        "color1": "#676277",
+        "color2": "#717188",
+        "color3": "#82778B",
+        "color4": "#8A7B92",
+        "color5": "#C27F98",
+        "color6": "#A08AA0",
+        "color7": "#e4c5cc",
+        "color8": "#9f898e",
+        "color9": "#676277",
+        "color10": "#717188",
+        "color11": "#82778B",
+        "color12": "#8A7B92",
+        "color13": "#C27F98",
+        "color14": "#A08AA0",
+        "color15": "#e4c5cc"
+    }
+}

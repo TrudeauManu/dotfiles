@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/.cache/ml4w-wallpaper-generated/blackwhite-tron_legacy5.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#dfdfdf",
+        "cursor": "#dfdfdf"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#373737",
+        "color2": "#474747",
+        "color3": "#585858",
+        "color4": "#6E6E6E",
+        "color5": "#8E8E8E",
+        "color6": "#AFAFAF",
+        "color7": "#dfdfdf",
+        "color8": "#9c9c9c",
+        "color9": "#373737",
+        "color10": "#474747",
+        "color11": "#585858",
+        "color12": "#6E6E6E",
+        "color13": "#8E8E8E",
+        "color14": "#AFAFAF",
+        "color15": "#dfdfdf"
+    }
+}

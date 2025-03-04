@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/c9u5jpple8291.png",
+    "alpha": "100",
+    "special": {
+        "background": "#060708",
+        "foreground": "#b2b6b7",
+        "cursor": "#b2b6b7"
+    },
+    "colors": {
+        "color0": "#060708",
+        "color1": "#374754",
+        "color2": "#384972",
+        "color3": "#695458",
+        "color4": "#C67565",
+        "color5": "#3D5184",
+        "color6": "#41548A",
+        "color7": "#b2b6b7",
+        "color8": "#7c7f80",
+        "color9": "#374754",
+        "color10": "#384972",
+        "color11": "#695458",
+        "color12": "#C67565",
+        "color13": "#3D5184",
+        "color14": "#41548A",
+        "color15": "#b2b6b7"
+    }
+}

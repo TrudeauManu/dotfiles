@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/manu/wallpaper/corals-fish-underwater.jpg"
+let background = "#14151e"
+let foreground = "#cde0e7"
+let cursor     = "#cde0e7"
+
+" Colors
+let color0  = "#14151e"
+let color1  = "#837C8F"
+let color2  = "#7B859E"
+let color3  = "#7EA3C1"
+let color4  = "#8896B2"
+let color5  = "#8FB1D6"
+let color6  = "#94C9E5"
+let color7  = "#cde0e7"
+let color8  = "#8f9ca1"
+let color9  = "#837C8F"
+let color10 = "#7B859E"
+let color11 = "#7EA3C1"
+let color12 = "#8896B2"
+let color13 = "#8FB1D6"
+let color14 = "#94C9E5"
+let color15 = "#cde0e7"

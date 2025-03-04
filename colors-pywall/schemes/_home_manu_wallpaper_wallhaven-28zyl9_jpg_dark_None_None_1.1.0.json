@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-28zyl9.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a04",
+        "foreground": "#dbd4ae",
+        "cursor": "#dbd4ae"
+    },
+    "colors": {
+        "color0": "#0a0a04",
+        "color1": "#545643",
+        "color2": "#5C6146",
+        "color3": "#726E49",
+        "color4": "#88703B",
+        "color5": "#867A4E",
+        "color6": "#9C935A",
+        "color7": "#dbd4ae",
+        "color8": "#999479",
+        "color9": "#545643",
+        "color10": "#5C6146",
+        "color11": "#726E49",
+        "color12": "#88703B",
+        "color13": "#867A4E",
+        "color14": "#9C935A",
+        "color15": "#dbd4ae"
+    }
+}

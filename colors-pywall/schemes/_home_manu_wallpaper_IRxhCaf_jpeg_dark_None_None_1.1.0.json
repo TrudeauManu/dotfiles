@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/IRxhCaf.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#021313",
+        "foreground": "#bfcbb2",
+        "cursor": "#bfcbb2"
+    },
+    "colors": {
+        "color0": "#021313",
+        "color1": "#2D6354",
+        "color2": "#4E7151",
+        "color3": "#428568",
+        "color4": "#619369",
+        "color5": "#B0A242",
+        "color6": "#90A96C",
+        "color7": "#bfcbb2",
+        "color8": "#858e7c",
+        "color9": "#2D6354",
+        "color10": "#4E7151",
+        "color11": "#428568",
+        "color12": "#619369",
+        "color13": "#B0A242",
+        "color14": "#90A96C",
+        "color15": "#bfcbb2"
+    }
+}

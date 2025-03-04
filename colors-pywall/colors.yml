@@ -1,0 +1,24 @@
+wallpaper: "/home/manu/wallpaper/corals-fish-underwater.jpg"
+
+special:
+    background: "#14151e"
+    foreground: "#cde0e7"
+    cursor: "#cde0e7"
+
+colors:
+    color0: "#14151e"
+    color1: "#837C8F"
+    color2: "#7B859E"
+    color3: "#7EA3C1"
+    color4: "#8896B2"
+    color5: "#8FB1D6"
+    color6: "#94C9E5"
+    color7: "#cde0e7"
+    color8: "#8f9ca1"
+    color9: "#837C8F"
+    color10: "#7B859E"
+    color11: "#7EA3C1"
+    color12: "#8896B2"
+    color13: "#8FB1D6"
+    color14: "#94C9E5"
+    color15: "#cde0e7"

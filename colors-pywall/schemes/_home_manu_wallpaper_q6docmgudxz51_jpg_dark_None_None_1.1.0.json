@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/q6docmgudxz51.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050103",
+        "foreground": "#e4859f",
+        "cursor": "#e4859f"
+    },
+    "colors": {
+        "color0": "#050103",
+        "color1": "#8C041A",
+        "color2": "#90052A",
+        "color3": "#A40720",
+        "color4": "#AE052F",
+        "color5": "#C90737",
+        "color6": "#AF2C56",
+        "color7": "#e4859f",
+        "color8": "#9f5d6f",
+        "color9": "#8C041A",
+        "color10": "#90052A",
+        "color11": "#A40720",
+        "color12": "#AE052F",
+        "color13": "#C90737",
+        "color14": "#AF2C56",
+        "color15": "#e4859f"
+    }
+}

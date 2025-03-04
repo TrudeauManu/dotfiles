@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/chinese-hills.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#272220",
+        "foreground": "#ede5d8",
+        "cursor": "#ede5d8"
+    },
+    "colors": {
+        "color0": "#272220",
+        "color1": "#CDB492",
+        "color2": "#D2BDA2",
+        "color3": "#D8C39D",
+        "color4": "#DDC9A6",
+        "color5": "#E7D8B7",
+        "color6": "#EDE0BD",
+        "color7": "#ede5d8",
+        "color8": "#a5a097",
+        "color9": "#CDB492",
+        "color10": "#D2BDA2",
+        "color11": "#D8C39D",
+        "color12": "#DDC9A6",
+        "color13": "#E7D8B7",
+        "color14": "#EDE0BD",
+        "color15": "#ede5d8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/clouds-3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#16171f",
+        "foreground": "#ded2dd",
+        "cursor": "#ded2dd"
+    },
+    "colors": {
+        "color0": "#16171f",
+        "color1": "#827F96",
+        "color2": "#7D839B",
+        "color3": "#8D93AF",
+        "color4": "#9B95AF",
+        "color5": "#D4A7BE",
+        "color6": "#AAAACC",
+        "color7": "#ded2dd",
+        "color8": "#9b939a",
+        "color9": "#827F96",
+        "color10": "#7D839B",
+        "color11": "#8D93AF",
+        "color12": "#9B95AF",
+        "color13": "#D4A7BE",
+        "color14": "#AAAACC",
+        "color15": "#ded2dd"
+    }
+}

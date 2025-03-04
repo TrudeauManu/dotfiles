@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/diner-lonely-road.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f17",
+        "foreground": "#c9dde5",
+        "cursor": "#c9dde5"
+    },
+    "colors": {
+        "color0": "#0f0f17",
+        "color1": "#7B859F",
+        "color2": "#8B93AE",
+        "color3": "#DBAAAF",
+        "color4": "#8B9FC1",
+        "color5": "#8EAED6",
+        "color6": "#8FBCE5",
+        "color7": "#c9dde5",
+        "color8": "#8c9aa0",
+        "color9": "#7B859F",
+        "color10": "#8B93AE",
+        "color11": "#DBAAAF",
+        "color12": "#8B9FC1",
+        "color13": "#8EAED6",
+        "color14": "#8FBCE5",
+        "color15": "#c9dde5"
+    }
+}

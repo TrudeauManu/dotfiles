@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/.cache/ml4w-wallpaper-generated/negate-default.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0d12",
+        "foreground": "#dfeced",
+        "cursor": "#dfeced"
+    },
+    "colors": {
+        "color0": "#0a0d12",
+        "color1": "#57B2CA",
+        "color2": "#71CAD9",
+        "color3": "#C8BBA6",
+        "color4": "#97D8DF",
+        "color5": "#B3E5EA",
+        "color6": "#E2DFD3",
+        "color7": "#dfeced",
+        "color8": "#9ca5a5",
+        "color9": "#57B2CA",
+        "color10": "#71CAD9",
+        "color11": "#C8BBA6",
+        "color12": "#97D8DF",
+        "color13": "#B3E5EA",
+        "color14": "#E2DFD3",
+        "color15": "#dfeced"
+    }
+}

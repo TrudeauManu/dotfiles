@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-y8edvl.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#05040D",
+        "foreground": "#ed9ee7",
+        "cursor": "#ed9ee7"
+    },
+    "colors": {
+        "color0": "#05040D",
+        "color1": "#5F21E2",
+        "color2": "#6E25F1",
+        "color3": "#C635B1",
+        "color4": "#992AE9",
+        "color5": "#CE33CC",
+        "color6": "#EA38EB",
+        "color7": "#ed9ee7",
+        "color8": "#a56ea1",
+        "color9": "#5F21E2",
+        "color10": "#6E25F1",
+        "color11": "#C635B1",
+        "color12": "#992AE9",
+        "color13": "#CE33CC",
+        "color14": "#EA38EB",
+        "color15": "#ed9ee7"
+    }
+}

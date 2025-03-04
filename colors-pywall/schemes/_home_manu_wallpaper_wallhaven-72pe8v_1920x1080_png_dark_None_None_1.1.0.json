@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-72pe8v_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0E061B",
+        "foreground": "#d0a3d1",
+        "cursor": "#d0a3d1"
+    },
+    "colors": {
+        "color0": "#0E061B",
+        "color1": "#4B146C",
+        "color2": "#611475",
+        "color3": "#5A4A66",
+        "color4": "#632596",
+        "color5": "#7B39C5",
+        "color6": "#9C1C96",
+        "color7": "#d0a3d1",
+        "color8": "#917292",
+        "color9": "#4B146C",
+        "color10": "#611475",
+        "color11": "#5A4A66",
+        "color12": "#632596",
+        "color13": "#7B39C5",
+        "color14": "#9C1C96",
+        "color15": "#d0a3d1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/galaxy-waves.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0b12",
+        "foreground": "#bfcee0",
+        "cursor": "#bfcee0"
+    },
+    "colors": {
+        "color0": "#0a0b12",
+        "color1": "#525569",
+        "color2": "#616579",
+        "color3": "#6F758B",
+        "color4": "#847B85",
+        "color5": "#7B859F",
+        "color6": "#8694B1",
+        "color7": "#bfcee0",
+        "color8": "#85909c",
+        "color9": "#525569",
+        "color10": "#616579",
+        "color11": "#6F758B",
+        "color12": "#847B85",
+        "color13": "#7B859F",
+        "color14": "#8694B1",
+        "color15": "#bfcee0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/signal-2020-11-13-133424.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0806",
+        "foreground": "#9db5c2",
+        "cursor": "#9db5c2"
+    },
+    "colors": {
+        "color0": "#0C0806",
+        "color1": "#394A53",
+        "color2": "#94562C",
+        "color3": "#C16B31",
+        "color4": "#9D6A49",
+        "color5": "#DB955C",
+        "color6": "#FDD46E",
+        "color7": "#9db5c2",
+        "color8": "#6d7e87",
+        "color9": "#394A53",
+        "color10": "#94562C",
+        "color11": "#C16B31",
+        "color12": "#9D6A49",
+        "color13": "#DB955C",
+        "color14": "#FDD46E",
+        "color15": "#9db5c2"
+    }
+}

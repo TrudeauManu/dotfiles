@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-pk9eye_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0b12",
+        "foreground": "#b4d6a0",
+        "cursor": "#b4d6a0"
+    },
+    "colors": {
+        "color0": "#0a0b12",
+        "color1": "#1E644D",
+        "color2": "#287049",
+        "color3": "#467440",
+        "color4": "#338E50",
+        "color5": "#39A152",
+        "color6": "#54A651",
+        "color7": "#b4d6a0",
+        "color8": "#7d9570",
+        "color9": "#1E644D",
+        "color10": "#287049",
+        "color11": "#467440",
+        "color12": "#338E50",
+        "color13": "#39A152",
+        "color14": "#54A651",
+        "color15": "#b4d6a0"
+    }
+}

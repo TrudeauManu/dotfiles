@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/david-kovalenko-G85VuTpw6jg-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0e0d",
+        "foreground": "#a1c0a8",
+        "cursor": "#a1c0a8"
+    },
+    "colors": {
+        "color0": "#0a0e0d",
+        "color1": "#456838",
+        "color2": "#2F5645",
+        "color3": "#1F654D",
+        "color4": "#316E4B",
+        "color5": "#487250",
+        "color6": "#378758",
+        "color7": "#a1c0a8",
+        "color8": "#708675",
+        "color9": "#456838",
+        "color10": "#2F5645",
+        "color11": "#1F654D",
+        "color12": "#316E4B",
+        "color13": "#487250",
+        "color14": "#378758",
+        "color15": "#a1c0a8"
+    }
+}

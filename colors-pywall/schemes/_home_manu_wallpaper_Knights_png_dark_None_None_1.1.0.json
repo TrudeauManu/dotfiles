@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/Knights.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101112",
+        "foreground": "#efe9d4",
+        "cursor": "#efe9d4"
+    },
+    "colors": {
+        "color0": "#101112",
+        "color1": "#766F63",
+        "color2": "#877A69",
+        "color3": "#968972",
+        "color4": "#C4A87F",
+        "color5": "#BAAD8F",
+        "color6": "#E3D4AE",
+        "color7": "#efe9d4",
+        "color8": "#a7a394",
+        "color9": "#766F63",
+        "color10": "#877A69",
+        "color11": "#968972",
+        "color12": "#C4A87F",
+        "color13": "#BAAD8F",
+        "color14": "#E3D4AE",
+        "color15": "#efe9d4"
+    }
+}

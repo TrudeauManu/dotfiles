@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/wallhaven-x8z3vo.png",
+    "alpha": "100",
+    "special": {
+        "background": "#04111E",
+        "foreground": "#c4bab4",
+        "cursor": "#c4bab4"
+    },
+    "colors": {
+        "color0": "#04111E",
+        "color1": "#355265",
+        "color2": "#4A4D5A",
+        "color3": "#4A5867",
+        "color4": "#64636D",
+        "color5": "#926768",
+        "color6": "#C57D6A",
+        "color7": "#c4bab4",
+        "color8": "#89827d",
+        "color9": "#355265",
+        "color10": "#4A4D5A",
+        "color11": "#4A5867",
+        "color12": "#64636D",
+        "color13": "#926768",
+        "color14": "#C57D6A",
+        "color15": "#c4bab4"
+    }
+}

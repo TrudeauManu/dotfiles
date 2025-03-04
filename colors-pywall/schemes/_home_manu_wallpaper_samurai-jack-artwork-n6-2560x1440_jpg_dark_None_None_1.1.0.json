@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/samurai-jack-artwork-n6-2560x1440.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0C12",
+        "foreground": "#ded2dd",
+        "cursor": "#ded2dd"
+    },
+    "colors": {
+        "color0": "#0E0C12",
+        "color1": "#76648C",
+        "color2": "#92748D",
+        "color3": "#D1558B",
+        "color4": "#AF909E",
+        "color5": "#D4A99D",
+        "color6": "#D8C2B9",
+        "color7": "#ded2dd",
+        "color8": "#9b939a",
+        "color9": "#76648C",
+        "color10": "#92748D",
+        "color11": "#D1558B",
+        "color12": "#AF909E",
+        "color13": "#D4A99D",
+        "color14": "#D8C2B9",
+        "color15": "#ded2dd"
+    }
+}

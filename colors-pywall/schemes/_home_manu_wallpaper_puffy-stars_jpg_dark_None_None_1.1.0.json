@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/puffy-stars.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F101C",
+        "foreground": "#e7c2cf",
+        "cursor": "#e7c2cf"
+    },
+    "colors": {
+        "color0": "#0F101C",
+        "color1": "#626579",
+        "color2": "#5D6882",
+        "color3": "#6F7287",
+        "color4": "#8B7B91",
+        "color5": "#7D8098",
+        "color6": "#A38EA5",
+        "color7": "#e7c2cf",
+        "color8": "#a18790",
+        "color9": "#626579",
+        "color10": "#5D6882",
+        "color11": "#6F7287",
+        "color12": "#8B7B91",
+        "color13": "#7D8098",
+        "color14": "#A38EA5",
+        "color15": "#e7c2cf"
+    }
+}

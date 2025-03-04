@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/solar-system.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100d0b",
+        "foreground": "#a9beb9",
+        "cursor": "#a9beb9"
+    },
+    "colors": {
+        "color0": "#100d0b",
+        "color1": "#AF5920",
+        "color2": "#CA611B",
+        "color3": "#987055",
+        "color4": "#CD8B32",
+        "color5": "#B28A6A",
+        "color6": "#CF9A6D",
+        "color7": "#a9beb9",
+        "color8": "#768581",
+        "color9": "#AF5920",
+        "color10": "#CA611B",
+        "color11": "#987055",
+        "color12": "#CD8B32",
+        "color13": "#B28A6A",
+        "color14": "#CF9A6D",
+        "color15": "#a9beb9"
+    }
+}

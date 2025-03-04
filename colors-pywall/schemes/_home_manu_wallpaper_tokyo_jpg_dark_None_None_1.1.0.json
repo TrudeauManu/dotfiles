@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/tokyo.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0518",
+        "foreground": "#bfafc3",
+        "cursor": "#bfafc3"
+    },
+    "colors": {
+        "color0": "#0B0518",
+        "color1": "#4D3460",
+        "color2": "#604D6D",
+        "color3": "#A05B52",
+        "color4": "#C69A67",
+        "color5": "#403A8F",
+        "color6": "#615894",
+        "color7": "#bfafc3",
+        "color8": "#857a88",
+        "color9": "#4D3460",
+        "color10": "#604D6D",
+        "color11": "#A05B52",
+        "color12": "#C69A67",
+        "color13": "#403A8F",
+        "color14": "#615894",
+        "color15": "#bfafc3"
+    }
+}

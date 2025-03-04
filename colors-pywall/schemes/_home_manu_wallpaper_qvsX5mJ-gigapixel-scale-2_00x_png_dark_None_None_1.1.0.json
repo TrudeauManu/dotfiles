@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/qvsX5mJ-gigapixel-scale-2_00x.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0B1016",
+        "foreground": "#b2bac1",
+        "cursor": "#b2bac1"
+    },
+    "colors": {
+        "color0": "#0B1016",
+        "color1": "#3B5064",
+        "color2": "#495869",
+        "color3": "#55616F",
+        "color4": "#A25363",
+        "color5": "#3B5F84",
+        "color6": "#677588",
+        "color7": "#b2bac1",
+        "color8": "#7c8287",
+        "color9": "#3B5064",
+        "color10": "#495869",
+        "color11": "#55616F",
+        "color12": "#A25363",
+        "color13": "#3B5F84",
+        "color14": "#677588",
+        "color15": "#b2bac1"
+    }
+}

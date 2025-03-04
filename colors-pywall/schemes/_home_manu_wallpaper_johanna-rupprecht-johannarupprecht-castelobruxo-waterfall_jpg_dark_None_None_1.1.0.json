@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/johanna-rupprecht-johannarupprecht-castelobruxo-waterfall.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181c1b",
+        "foreground": "#c7c8c3",
+        "cursor": "#c7c8c3"
+    },
+    "colors": {
+        "color0": "#181c1b",
+        "color1": "#98665D",
+        "color2": "#4BA460",
+        "color3": "#98916F",
+        "color4": "#BCAD6F",
+        "color5": "#767686",
+        "color6": "#69A49E",
+        "color7": "#c7c8c3",
+        "color8": "#8b8c88",
+        "color9": "#98665D",
+        "color10": "#4BA460",
+        "color11": "#98916F",
+        "color12": "#BCAD6F",
+        "color13": "#767686",
+        "color14": "#69A49E",
+        "color15": "#c7c8c3"
+    }
+}

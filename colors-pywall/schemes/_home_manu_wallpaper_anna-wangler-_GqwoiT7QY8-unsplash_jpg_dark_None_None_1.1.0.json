@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/anna-wangler-_GqwoiT7QY8-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0F0F",
+        "foreground": "#cdcdcd",
+        "cursor": "#cdcdcd"
+    },
+    "colors": {
+        "color0": "#0F0F0F",
+        "color1": "#807F7D",
+        "color2": "#82817F",
+        "color3": "#7F7F80",
+        "color4": "#828281",
+        "color5": "#858585",
+        "color6": "#8F8F8F",
+        "color7": "#cdcdcd",
+        "color8": "#8f8f8f",
+        "color9": "#807F7D",
+        "color10": "#82817F",
+        "color11": "#7F7F80",
+        "color12": "#828281",
+        "color13": "#858585",
+        "color14": "#8F8F8F",
+        "color15": "#cdcdcd"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/uyf5zxmsd8291.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1013",
+        "foreground": "#dee1e1",
+        "cursor": "#dee1e1"
+    },
+    "colors": {
+        "color0": "#0e1013",
+        "color1": "#607489",
+        "color2": "#748C9B",
+        "color3": "#77A4C5",
+        "color4": "#9AA5AA",
+        "color5": "#BABDBC",
+        "color6": "#B8C7CB",
+        "color7": "#dee1e1",
+        "color8": "#9b9d9d",
+        "color9": "#607489",
+        "color10": "#748C9B",
+        "color11": "#77A4C5",
+        "color12": "#9AA5AA",
+        "color13": "#BABDBC",
+        "color14": "#B8C7CB",
+        "color15": "#dee1e1"
+    }
+}

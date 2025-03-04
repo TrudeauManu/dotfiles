@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/wallpaper/satellite.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#110d09",
+        "foreground": "#e0ccb2",
+        "cursor": "#e0ccb2"
+    },
+    "colors": {
+        "color0": "#110d09",
+        "color1": "#6B6257",
+        "color2": "#716D67",
+        "color3": "#966133",
+        "color4": "#8C775F",
+        "color5": "#798475",
+        "color6": "#A08D70",
+        "color7": "#e0ccb2",
+        "color8": "#9c8e7c",
+        "color9": "#6B6257",
+        "color10": "#716D67",
+        "color11": "#966133",
+        "color12": "#8C775F",
+        "color13": "#798475",
+        "color14": "#A08D70",
+        "color15": "#e0ccb2"
+    }
+}

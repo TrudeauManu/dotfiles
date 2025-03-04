@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/manu/.config/ml4w/cache/wallpaper-generated/blackwhite-colorful-clouds.png",
+    "alpha": "100",
+    "special": {
+        "background": "#060606",
+        "foreground": "#ebebeb",
+        "cursor": "#ebebeb"
+    },
+    "colors": {
+        "color0": "#060606",
+        "color1": "#585858",
+        "color2": "#676767",
+        "color3": "#777777",
+        "color4": "#8F8F8F",
+        "color5": "#AFAFAF",
+        "color6": "#CFCFCF",
+        "color7": "#ebebeb",
+        "color8": "#a4a4a4",
+        "color9": "#585858",
+        "color10": "#676767",
+        "color11": "#777777",
+        "color12": "#8F8F8F",
+        "color13": "#AFAFAF",
+        "color14": "#CFCFCF",
+        "color15": "#ebebeb"
+    }
+}
