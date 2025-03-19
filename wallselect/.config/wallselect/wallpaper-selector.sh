@@ -8,7 +8,7 @@ mapfile -t wallpapers < <(find "$WALLPAPER_DIR" -type f \( -iname "*.jpg" -o -in
 
 # Check if wallpapers exist
 if [ ${#wallpapers[@]} -eq 0 ]; then
-  notify-send "No wallpapers found in $WALLPAPER_DIR"
+  #notify-send "No wallpapers found in $WALLPAPER_DIR"
   exit 1
 fi
 
@@ -33,4 +33,4 @@ pkill hyprpaper
 hyprpaper -c "$CACHE_FILE" &
 
 # Notify user
-notify-send "Wallpaper Updated" "$chosen"
+#notify-send "Wallpaper Updated" "$chosen"

@@ -8,7 +8,6 @@
 if [[ $(tty) == *"pts"* ]]; then
     fastfetch --logo archlinux2
 else
-    echo
     if [ -f /bin/qtile ]; then
         echo "Start Qtile X11 with command Qtile"
     fi

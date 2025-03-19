@@ -20,7 +20,7 @@ by Stephan Raabe (2023)
  * ----------------------------------------------------- */
 
 * {
-    font-family: "Fira Sans Semibold", FontAwesome, Roboto, Helvetica, Arial, sans-serif;
+    font-family: "JetbrainsMono Nerd Font", FontAwesome, Roboto, Helvetica, Arial, sans-serif;
 	background-image: none;
 	transition: 20ms;
 	box-shadow: none;
@@ -42,6 +42,7 @@ button {
     	border-radius: 80px; /* Increased border radius for a more rounded look */
 	border:0px;
 	transition: all 0.3s cubic-bezier(.55, 0.0, .28, 1.682), box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
+	color: #cdd6f4;
 }
 
 button:focus {

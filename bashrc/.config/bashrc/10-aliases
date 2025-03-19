@@ -14,7 +14,6 @@ alias ll='eza -al --icons=always'
 alias lt='eza -a --tree --level=1 --icons=always'
 alias shutdown='systemctl poweroff'
 alias v='$EDITOR'
-alias vim='$EDITOR'
 alias ts='~/.config/ml4w/scripts/snapshot.sh'
 alias wifi='nmtui'
 alias cleanup='~/.config/ml4w/scripts/cleanup.sh'
@@ -22,15 +21,15 @@ alias cleanup='~/.config/ml4w/scripts/cleanup.sh'
 # -----------------------------------------------------
 # ML4W Apps
 # -----------------------------------------------------
-alias ml4w='com.ml4w.welcome'
-alias ml4w-settings='com.ml4w.dotfilessettings'
-alias ml4w-hyprland='com.ml4w.hyprland.settings'
-alias ml4w-options='ml4w-hyprland-setup -m options'
-alias ml4w-sidebar='ags toggle sidebar'
-alias ml4w-diagnosis='~/.config/hypr/scripts/diagnosis.sh'
-alias ml4w-hyprland-diagnosis='~/.config/hypr/scripts/diagnosis.sh'
-alias ml4w-qtile-diagnosis='~/.config/ml4w/qtile/scripts/diagnosis.sh'
-alias ml4w-update='~/.config/ml4w/update.sh'
+#alias ml4w='com.ml4w.welcome'
+#alias ml4w-settings='com.ml4w.dotfilessettings'
+#alias ml4w-hyprland='com.ml4w.hyprland.settings'
+#alias ml4w-options='ml4w-hyprland-setup -m options'
+#alias ml4w-sidebar='ags toggle sidebar'
+#alias ml4w-diagnosis='~/.config/hypr/scripts/diagnosis.sh'
+#alias ml4w-hyprland-diagnosis='~/.config/hypr/scripts/diagnosis.sh'
+#alias ml4w-qtile-diagnosis='~/.config/ml4w/qtile/scripts/diagnosis.sh'
+alias ml4w-update='~/.config/ml4w/scripts/updates.sh'
 
 # -----------------------------------------------------
 # Window Managers

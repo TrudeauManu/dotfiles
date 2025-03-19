@@ -57,12 +57,12 @@ window#waybar {
 
 #workspaces button {
     color: @textcolor3;
-    background-color: transparent;
 }
 
 #workspaces button:hover {
-    border-radius: 15px;
-    background-color: transparent;
+    color: @textcolor2;
+    border-radius: 10px;
+    background-color: @textcolor2;
 }
 
 /* -----------------------------------------------------
