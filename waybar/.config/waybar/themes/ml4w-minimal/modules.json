@@ -228,7 +228,7 @@
 
     // Clock
     "clock": {
-        "format": "{:%A %d %B | %I:%M %p}",
+        "format": "{:%H:%M  %A %e}",
         "on-click":"kitty -e sh -c 'cal -3; read -p \"Press Enter to exit...\"'",
         "tooltip": false
     },

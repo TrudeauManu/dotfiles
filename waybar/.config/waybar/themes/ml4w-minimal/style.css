@@ -38,7 +38,7 @@ window#waybar {
     background-color: rgba(0,0,0,0.4);
     border-bottom: 0px solid #ffffff;
     /* color: #FFFFFF; */
-    transition-property: background-color;
+    /* transition-property: background-color; */
 }
 
 /* -----------------------------------------------------
@@ -46,9 +46,9 @@ window#waybar {
  * ----------------------------------------------------- */
 
 #workspaces {
-    border-radius: 10px;
     color: @textcolor3;
-    margin-right: 15px;
+    margin-right: 7px;
+    margin-left: 7px;
     padding-top: 2px;
     padding-left: 10px;
     padding-right: 10px;
@@ -60,9 +60,9 @@ window#waybar {
 }
 
 #workspaces button:hover {
-    color: @textcolor2;
-    border-radius: 10px;
-    background-color: @textcolor2;
+    color: #7EA3C1;
+    background: none;
+    border: none;
 }
 
 /* -----------------------------------------------------

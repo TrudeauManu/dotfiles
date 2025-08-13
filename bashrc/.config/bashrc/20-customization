@@ -13,3 +13,9 @@ eval "$(oh-my-posh init bash --config $HOME/.config/ohmyposh/EDM115-newline.omp.
 # Pywal
 # -----------------------------------------------------
 cat ~/.cache/wal/sequences
+
+# -----------------------------------------------------
+# Bash Completion
+# -----------------------------------------------------
+[[ $PS1 && -f /usr/share/bash-completion/bash_completion ]] && \
+    . /usr/share/bash-completion/bash_completion

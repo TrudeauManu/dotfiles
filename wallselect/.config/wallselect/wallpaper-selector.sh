@@ -33,4 +33,4 @@ pkill hyprpaper
 hyprpaper -c "$CACHE_FILE" &
 
 # Notify user
-#notify-send "Wallpaper Updated" "$chosen"
+notify-send "Wallpaper Updated" "$chosen"
